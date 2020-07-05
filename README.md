@@ -1,10 +1,8 @@
 # Let's Go Bananas!!
-<p align="center">
-  <src ="https://drive.google.com/file/d/1dTCDmDzV0Mi1CaeykSE_CFrkjnCAcGNN/preview" width="640" height="480">
-</p>
-  
 
-This repository demonstrates some reinforcement learning methods used to train an agent to navigate and collect yellow banana in a square environment.
+<p align="center">
+  <img width="640" height="480" src="https://media3.giphy.com/media/gjaKRybnsBP5rcfMqq/giphy.gif">
+</p>
 
 ## Required files and Dependencies tutorial
 
@@ -41,7 +39,9 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 5. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
-![Kernel][image2]
+<p align="left">
+  <img width="420" height="300" src = "https://user-images.githubusercontent.com/10624937/42386929-76f671f0-8106-11e8-9376-f17da2ae852e.png">
+</p>
 
 ## File Structure
 
@@ -50,13 +50,14 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 - model.py : Model architecture of the deep neural networks.
 - Navigation.ipynb - Contains the necessary code for training and testing.
 
-## Deep Q-networks
+### Deep Q-networks
+
 <p align="center">
-  <src = "https://video.udacity-data.com/topher/2018/May/5aef2add_dqn/dqn.png">
+  <img width="640" height="480" src="https://video.udacity-data.com/topher/2018/May/5aef2add_dqn/dqn.png">
 </p>
-  
-<p align="center">
-  <src =  "https://miro.medium.com/max/1400/1*8coZ4g_pRtfyoHmsuzMH6g.png">
+
+<p align="left">
+  <img width="640" height="480" src = "https://miro.medium.com/max/1400/1*8coZ4g_pRtfyoHmsuzMH6g.png">
 </p>
 
 
